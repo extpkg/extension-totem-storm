@@ -1,7 +1,7 @@
 {
-  "name": "extension-name",
+  "name": "extension-totem-storm",
   "version": "1.0.0",
-  "description": "Extension description",
+  "description": "Dodge foes, escape lightning, master the realm! Can you survive?",
   "type": "module",
   "scripts": {
     "build": "cross-env NODE_ENV=production node ./scripts/build.mjs",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/extpkg/extension-name.git"
+    "url": "git+ssh://git@github.com/extpkg/extension-totem-storm.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/extpkg/extension-name/issues"
+    "url": "https://github.com/extpkg/extension-totem-storm/issues"
   },
-  "homepage": "https://github.com/extpkg/extension-name#readme",
+  "homepage": "https://github.com/extpkg/extension-totem-storm#readme",
   "devDependencies": {
     "@chialab/esbuild-plugin-meta-url": "^0.17.7",
     "@commitlint/cli": "^17.7.1",

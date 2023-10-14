@@ -1,8 +1,8 @@
 {
   "manifest_version": "ext-v1",
-  "name": "Extension Name",
-  "short_name": "Extension Name",
-  "description": "Extension description",
+  "name": "Totem Storm",
+  "short_name": "Totem Storm",
+  "description": "Dodge foes, escape lightning, master the realm! Can you survive?",
   "version": "1.0.0",
   "author": "EXT, Inc.",
   "icons": {

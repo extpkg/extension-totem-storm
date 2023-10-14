@@ -1,6 +1,6 @@
-# Extension name
+# Totem Storm
 
-Extension description
+Dodge foes, escape lightning, master the realm! Can you survive?
 
 ## Build
 
