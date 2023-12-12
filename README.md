@@ -13,3 +13,7 @@ Dodge foes, escape lightning, master the realm! Can you survive?
 
 Run `npm run dev` to watch `src` and `public` directories and rebuild the
 project on changes
+
+## Source
+https://github.com/Escada-Games/totemStorm
+
